@@ -64,7 +64,7 @@ Feel free to fork this repository and contribute. Pull requests for bug fixes, i
 
 ## License
 
-This project is licensed under the [Specify License].
+This project is licensed under the MIT.
 
 ## Acknowledgments
 
